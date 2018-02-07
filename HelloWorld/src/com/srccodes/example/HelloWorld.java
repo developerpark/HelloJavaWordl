@@ -8,7 +8,6 @@ public class HelloWorld {
 		// add comment.
 		// add by web merge
 		// edit local
-		// only commit
 	}	
 
 }
